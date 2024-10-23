@@ -64,6 +64,15 @@ section{
     font-family: var(--fonte3);
     font-size: 3.5vw;
 }
+
+section > p{
+
+    padding-bottom: 2em;
+
+
+}
+
+
  section.normal{
     background-color: white ;
     color: black; }
@@ -80,6 +89,15 @@ section{
     background-color: rgb(0,0,0.0233);
  }
  
+ section#img01{
+    background-image: url();
+ }
+
+
+ section#img02{
+
+ }
+
 
  footer{
     background-color: black;
